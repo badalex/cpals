@@ -1,5 +1,5 @@
 default:
-	GOPATH=`pwd` go run src/c21.go
+	GOPATH=`pwd` go run src/c22.go
 
 all:
 	GOPATH=`pwd` go run src/c1.go
@@ -22,4 +22,5 @@ all:
 	GOPATH=`pwd` go run src/c18.go
 	GOPATH=`pwd` go run src/c19.go
 	GOPATH=`pwd` go run src/c21.go
+	GOPATH=`pwd` go run src/c22.go
 
