@@ -2,6 +2,8 @@ package main
 
 import "cpals"
 
+// meh too lazy for this now
+// going onto challenge 21
 func main() {
 	b64 := []string{
 		"SSBoYXZlIG1ldCB0aGVtIGF0IGNsb3NlIG9mIGRheQ==",
